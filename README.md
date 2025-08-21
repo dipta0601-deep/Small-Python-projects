@@ -1,4 +1,2 @@
 # Small-Python-projects
-🏦 ATM Machine Simulation
-
-Designed and developed an ATM Machine Simulation in Python to demonstrate core object-oriented programming concepts. The project features secure encapsulation of sensitive data such as PIN and account balance, with authentication mechanisms to validate user access. Functionalities include deposit, withdrawal, and balance inquiry, along with robust error handling for scenarios like incorrect PIN entry, insufficient balance, and invalid transactions. This project reflects how Python OOP can be applied to simulate real-world banking systems.
+A collection of beginner-to-intermediate Python projects demonstrating core programming concepts and OOP principles. Includes simulations like ATM Machine, E-Commerce Cart, Student Management System, Library Book System, and more. These projects showcase my journey from mastering Python basics to applying real-world problem-solving with object-oriented programming.
