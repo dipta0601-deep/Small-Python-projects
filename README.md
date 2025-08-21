@@ -1,2 +1,2 @@
-# Small-Python-projects
+# Basic to advance Python Projects
 A collection of beginner-to-intermediate Python projects demonstrating core programming concepts and OOP principles. Includes simulations like ATM Machine, E-Commerce Cart, Student Management System, Library Book System, and more. These projects showcase my journey from mastering Python basics to applying real-world problem-solving with object-oriented programming.
